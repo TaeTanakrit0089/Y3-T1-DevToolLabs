@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week02 Git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab01/git-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab02/lab-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab03/colleague-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab03/main-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab04/colleague-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week03 Git/Lab04/lab-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week04 Git/Lab01/git-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week04 Git/Lab02/my-git-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week04 Git/Lab03/mygit-lab3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week05 Git/Lab01/GitCheckoutLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week05 Git/Lab02/GitRestoreLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week05 Git/Lab03/git-reset-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week05 Git/Lab04/GitRevertLab" vcs="Git" />
+  </component>
+</project>
